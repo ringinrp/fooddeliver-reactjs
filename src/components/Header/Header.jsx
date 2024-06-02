@@ -5,8 +5,8 @@ const Header = () => {
   return (
     <div className="header">
         <div className="header-contents">
-            <h2>Order your favorite food here</h2>
-            <p>Pilih makanan yang kamu suka dan dapatkan diskon untuk makanan di bulan ini, GRATIS biasa pengiriman selama diskon berlangsung</p>
+            <h2>Kami punya banyak pilihan untuk kamu pilih.</h2>
+            <p>Pilih makanan yang kamu suka dan dapatkan diskon untuk makanan di bulan ini, <b>GRATIS</b> biaya pengiriman selama diskon berlangsung</p>
             <button> View Menu</button>
         </div>
     </div>
